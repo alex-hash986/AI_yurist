@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+chroma_db/
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+
+*.docx
+!data/sample_contracts/*.docx
+!docs/Техническое_задание_AI_Юрист.docx
